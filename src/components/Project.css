@@ -1,0 +1,44 @@
+.project-container {
+    display: flex;
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.project-image img {
+    max-width: 300px;
+    margin-right: 20px;
+}
+
+.project-info {
+    flex: 1;
+}
+
+.project-info h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+}
+
+.project-info p {
+    margin: 10px 0;
+}
+
+.project-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-links {
+    margin-top: 10px;
+}
+
+.project-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+}
