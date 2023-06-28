@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sneha-sunny/static/css/main.6c7d0623.css",
-    "main.js": "/sneha-sunny/static/js/main.c5f0fa40.js",
-    "static/js/787.128fc6e9.chunk.js": "/sneha-sunny/static/js/787.128fc6e9.chunk.js",
-    "index.html": "/sneha-sunny/index.html",
-    "main.6c7d0623.css.map": "/sneha-sunny/static/css/main.6c7d0623.css.map",
-    "main.c5f0fa40.js.map": "/sneha-sunny/static/js/main.c5f0fa40.js.map",
-    "787.128fc6e9.chunk.js.map": "/sneha-sunny/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/snehasunny/static/css/main.6c7d0623.css",
+    "main.js": "/snehasunny/static/js/main.260989a3.js",
+    "static/js/787.128fc6e9.chunk.js": "/snehasunny/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/snehasunny/index.html",
+    "main.6c7d0623.css.map": "/snehasunny/static/css/main.6c7d0623.css.map",
+    "main.260989a3.js.map": "/snehasunny/static/js/main.260989a3.js.map",
+    "787.128fc6e9.chunk.js.map": "/snehasunny/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c7d0623.css",
-    "static/js/main.c5f0fa40.js"
+    "static/js/main.260989a3.js"
   ]
 }
